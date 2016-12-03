@@ -6,7 +6,7 @@ layout: default
 
 # SweetCow
 
-/ / /
+- - -
 
 ## Chicago Cubs
 2016 world series champion 

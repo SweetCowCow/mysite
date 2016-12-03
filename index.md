@@ -6,14 +6,14 @@ layout: default
 
 # SweetCow
 
-github test
+2016 world series champion 
+## Chicago Cubs
 
 - - -
 
 ### about
 
-Sinyi
-
+real estate/GIS/data
 
 ### Links
 
